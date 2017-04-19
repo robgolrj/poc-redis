@@ -1,1 +1,3 @@
-# poc-websocket
+# poc-redis
+
+Poc redis com spring data redis
